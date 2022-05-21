@@ -10,3 +10,8 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelprieto/)
+
+<img
+  src="https://github.com/Zedronar/Zedronar/blob/main/images/stat.svg"
+  alt="Axel's WakaTime Activity"
+/>
