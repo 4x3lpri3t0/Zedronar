@@ -13,8 +13,6 @@
 <div align=top style="height: 100%; width:100%; display:table; table-layout:fixed; background-color:lightblue;">
  <img align=top height=200 style="width:49%; display:table-cell; margin: 0" src="https://github-readme-stats.vercel.app/api?username=zedronar&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&hide_border=true"/>
  <img align=top height=200 style="width:49%; display:table-cell; margin: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=zedronar&theme=dark&hide_border=true"/>
-</div>
-<div align=top style="height: 100%; width:100%; display:table; table-layout:fixed; background-color:lightblue;">
  <img align=top height=200 style="width:49%; display:table-cell; margin: 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedronar&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&hide_border=true"/>
  <img align=top height=200 style="width:49%; display:table-cell; margin: 5px;" src="https://github.com/Zedronar/Zedronar/blob/main/images/stat.svg"/>
 </div>
