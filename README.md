@@ -4,7 +4,7 @@
 
 <br><br>
 <div align=top>
- 🔭 I’m currently working on improving my Go and Rust skills... <img align=right alt="Go" src="https://dg8krxphbh767.cloudfront.net/tracks/go.svg"><img align=right alt="Rust" src="https://dg8krxphbh767.cloudfront.net/tracks/rust.svg">
+ 🔭 I’m currently working on improving my Rust and Go skills... <img align=right alt="Go" src="https://dg8krxphbh767.cloudfront.net/tracks/go.svg"><img align=right alt="Rust" src="https://dg8krxphbh767.cloudfront.net/tracks/rust.svg">
 </div>
 <br><br>
 <br><br>
