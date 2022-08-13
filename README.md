@@ -1,10 +1,5 @@
-
-
-### Hi, I'm Axel 👋
-
-<br><br>
 <div align=top>
- <div align=left> 🔭 I’m currently working on improving my Rust and Go skills... </div>
+ <div align=left> 🔭 Currently working on improving my Rust and Go skills... </div>
  <img align=right alt="Go" src="https://dg8krxphbh767.cloudfront.net/tracks/go.svg">
  <img align=right alt="Rust" src="https://dg8krxphbh767.cloudfront.net/tracks/rust.svg">
 </div>
